@@ -13,15 +13,15 @@
 
 </div>
 <div style="display: inline-block"><br/>
-<img align="center" alt="pyton" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
 <div style="display: inline-block"><br/>
-<img align="center" alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+<img align="center" alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 </div>
 <div style="display: inline-block"><br/>
-<img align="center" alt="SQL" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
+<img align="center" alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </div>
 <div style="display: inline-block"><br/>
-<img align="center" alt="JUPYTER" src="https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter">
+<img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
   </div><br>
-  Graduando em Análise e desenvolvimentos de sistemas, dedicando o tempo livre para aperfeiçoar os estudos de BIG DATA e Dashboards em POWER BI. Eterno estudante!
+  Graduado em Análise e desenvolvimento de sistemas, programador frontend junior.
